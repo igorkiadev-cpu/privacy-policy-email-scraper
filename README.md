@@ -30,7 +30,11 @@ This tool is designed to eliminate manual work when collecting contact informati
 
 ## Project Structure
 
-privacy-policy-email-scraper/
+# Privacy Policy Email Scraper
+
+![Python 3.11](https://img.shields.io/badge/python-3.11-blue)
+![License MIT](https://img.shields.io/badge/license-MIT-green)
+![Build Passing](https://img.shields.io/badge/build-passing-brightgreen)
 │
 ├── scraper.py
 ├── input_urls.txt
